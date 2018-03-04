@@ -3,3 +3,4 @@
 3disanhan
 4.add a new file named b
 5.push to remote repostory
+6.fixing bug now

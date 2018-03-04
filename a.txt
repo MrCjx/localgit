@@ -4,3 +4,4 @@
 4.add a new file named b
 5.push to remote repostory
 6.fixing bug now
+7.now need to fix a bug
